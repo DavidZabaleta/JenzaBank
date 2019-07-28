@@ -1,5 +1,2 @@
-123456/Administrador de Usuario/david zabaleta/carrera 45/6153030/ola@xd.com/0/123
-654321/Administrador de Usuario/jesus garcia/carrera 32/3252541/adiosxd@xd.com/0/432
-330601/David/franco/cll 20/3212146/david@gmail.com/1500/789
-693842/Johan/Arley/cra44/352145896/hola@hotmail.com/800/147
-429156/David/Zabaleta/msodao/123342/adoasi@sajdk.co/30000/1234
+123456/Administrador de Usuario/david zabaleta/carrera 45/6503030/david@jenzabank.com/0/1234
+654321/Administrador de Usuario/jesus garcia/carrera 32/3250041/jesus@jenzabank.com/0/6789

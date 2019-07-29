@@ -1,6 +1,6 @@
 # JenzaBank
 JenzaBank is a fictitious bank application, made in Nov 2017 from a class project in the university.</br> 
-It was developed with C# and Windows Forms. The database it's managed as a plain TXT file.
+It was developed with C# and Windows Forms. The database it's managed as a plain .TXT file.
 
 - The entire program and documentation is in Spanish.</br> 
 - The PDFs files in the documentation are better visualizate if you download it.</br> 
@@ -76,8 +76,12 @@ It was developed with C# and Windows Forms. The database it's managed as a plain
 ![Modify User (Modificar datos usuario))](https://i.imgur.com/AoWoti9.png "Modify User (Modificar datos usuario)")
 
 
+## Issues (Problemas)
+
+The database in a .TXT file is the most important issue and some bugs along the program. The last project update was made in Nov 2017.
+
+
 ## Authors (Autores)
 
 - **David Zabaleta Franco**
 - **Jesús Garcia**
-
